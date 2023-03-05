@@ -162,5 +162,33 @@
         "bs": "revolutionize end-to-end systems"
       }
     }
-  ]
-}
+  ],
+  "mines": [
+    {
+      "id": 1,
+      "mineName": "Example Mine 1",
+      "primaryContact": 1,
+      "protocolList": [
+        "Protocol A",
+        "Protocol B",
+        "Protocol C"
+      ]
+    },
+    {
+      "id": 2,
+      "mineName": "Example Mine 2",
+      "primaryContact": 2,
+      "protocolList": [
+        "Protocol D",
+        "Protocol E"
+      ]
+    },
+    {
+      "id": 3,
+      "mineName": "Example Mine 3",
+      "primaryContact": 3,
+      "protocolList": [
+        "Protocol F"
+      ]
+    }
+  }
